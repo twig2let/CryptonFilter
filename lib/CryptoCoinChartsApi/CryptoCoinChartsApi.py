@@ -11,14 +11,17 @@ from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 from urllib.parse import urlencode
 from .Models import Coin, TradingPair
+
 import json
 
 class API(object):
+
     '''
     This class is a wrapper class for the CryptoCoinCharts api.
     '''
-    
+
     API_PATH = "http://www.cryptocoincharts.info/v2/api/"
+    JSON_DATA = ""
         
     def listcoins(self):
         '''
@@ -27,8 +30,8 @@ class API(object):
         '''
         url = self.API_PATH + 'listCoins'
 
-        # decode('utf-8') fixes bug in python 3.3
-        json_data = json.loads(self._getdata(url).decode('utf-8'))
+        json_data = json.loads(self._getdata(url))
+        self.JSON_DATA = json_data
         
         coins = []
         for entry in json_data:
@@ -95,7 +98,7 @@ class API(object):
     
     def listofpairs(self):
         pass
-    
+
     def _getdata(self, url, data = ""):
         '''
         Wrapper method
@@ -115,5 +118,11 @@ class API(object):
             print('Reason: ', e.code)
         else:
             # Everything is fine.
-            return response.read()
+                                #  decode('utf-8') fixes bug in python 3.3
+            return response.read().decode('utf-8')
+
+        # Custom Methods
+
+    def getjson(self):
+        return self.JSON_DATA
             
