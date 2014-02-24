@@ -1,1 +1,1535 @@
-[{"website": "http://fourtytwo42.com/", "price_btc": "188.00000009", "name": "FourtyTwoCoin", "volume_btc": "11.088854391273", "id": "42"}, {"website": "", "price_btc": "0.00000001", "name": "ADT", "volume_btc": "0", "id": "adt"}, {"website": "http://cur.lv/5rzs5", "price_btc": "0.00000535", "name": "AlphaCoin", "volume_btc": "1.8932933488155", "id": "alf"}, {"website": "", "price_btc": "0.00000593", "name": "ALP", "volume_btc": "0.0748333763689519", "id": "alp"}, {"website": "", "price_btc": "0.00000637", "name": "AmericanCoin", "volume_btc": "1.05642069265646", "id": "amc"}, {"website": "http://anoncoin.net", "price_btc": "0.00282121", "name": "AnonCoin", "volume_btc": "13.6792727220232", "id": "anc"}, {"website": "", "price_btc": "0.00000100", "name": "ANT", "volume_btc": "0.0001", "id": "ant"}, {"website": "", "price_btc": "0.00024108", "name": "Argentum", "volume_btc": "2.8619917367082", "id": "arg"}, {"website": "", "price_btc": "0.00000080", "name": "ASC", "volume_btc": "0.701981718454436", "id": "asc"}, {"website": "", "price_btc": "0.00500000", "name": "AstroCoin", "volume_btc": "4.27596096518399", "id": "asr"}, {"website": "", "price_btc": "0.06100000", "name": "ATP", "volume_btc": "0.425792995", "id": "atp"}, {"website": "", "price_btc": "0.00595000", "name": "AUR", "volume_btc": "1.58535467452278", "id": "aur"}, {"website": "", "price_btc": "0.00001880", "name": "BCX", "volume_btc": "2.62973382890393", "id": "bcx"}, {"website": "http://cur.lv/62fdg", "price_btc": "0.00137284", "name": "BeaoCoin", "volume_btc": "0", "id": "bec"}, {"website": "", "price_btc": "0.00004031", "name": "BET", "volume_btc": "27.175660451072", "id": "bet"}, {"website": "", "price_btc": "0.00000059", "name": "BFC", "volume_btc": "0", "id": "bfc"}, {"website": "http://billioncoin.net/", "price_btc": "0.00000022", "name": "BillionCoin", "volume_btc": "9.42276085200291", "id": "bil"}, {"website": "http://www.blakecoin.org/", "price_btc": "0.00013500", "name": "Blakecoin", "volume_btc": "2.6701132011999", "id": "blc"}, {"website": "http://www.bountycoin.org/", "price_btc": "0.00000198", "name": "Bountycoin", "volume_btc": "0.006145437585203", "id": "boc"}, {"website": "", "price_btc": "0.00003100", "name": "BBQCoin", "volume_btc": "20.636974492856", "id": "bqc"}, {"website": "", "price_btc": "0.09019087", "name": "BitBar", "volume_btc": "11.6756524946951", "id": "btb"}, {"website": "http://bitcoin.org", "price_btc": "1.00000000", "name": "Bitcoin", "volume_btc": "101206.89690417", "id": "btc"}, {"website": "", "price_btc": "0.00012114", "name": "Bytecoin", "volume_btc": "0.403880359392039", "id": "bte"}, {"website": "http://cur.lv/5rzsu", "price_btc": "0.01360010", "name": "Bitgem", "volume_btc": "7.59633985483355", "id": "btg"}, {"website": "", "price_btc": "0.00000052", "name": "BTR", "volume_btc": "0", "id": "btr"}, {"website": "", "price_btc": "0.00027990", "name": "BUK", "volume_btc": "0.30181617418912", "id": "buk"}, {"website": "", "price_btc": "0.00510000", "name": "CACH", "volume_btc": "13.7833141288965", "id": "cach"}, {"website": "http://www.cagecoin.com/", "price_btc": "0.00000001", "name": "Cagecoin", "volume_btc": "31.3435804056187", "id": "cage"}, {"website": "", "price_btc": "0.00002931", "name": "CAP", "volume_btc": "0.272817120664498", "id": "cap"}, {"website": "http://www.cash-coin.org/", "price_btc": "0.00014085", "name": "Cash", "volume_btc": "5.27193870202332", "id": "cash"}, {"website": "", "price_btc": "0.00035950", "name": "CatCoin", "volume_btc": "6.78200890824836", "id": "cat"}, {"website": "", "price_btc": "0.00003521", "name": "Cloudcoin", "volume_btc": "0.29579853535", "id": "cdc"}, {"website": "http://cur.lv/5rzpo", "price_btc": "0.00000000", "name": "Pennies", "volume_btc": "3.6839257954109", "id": "cent"}, {"website": "", "price_btc": "0.00400000", "name": "CGA", "volume_btc": "2.22296203062035", "id": "cga"}, {"website": "https://cryptogenicbullion.org", "price_btc": "0.00129856", "name": "CryptogenicBullion", "volume_btc": "12.5597599115507", "id": "cgb"}, {"website": "", "price_btc": "0.00001800", "name": "CIN", "volume_btc": "0.0645916699778135", "id": "cin"}, {"website": "http://cur.lv/5rzqi", "price_btc": "0.00031987", "name": "CopperLark", "volume_btc": "24.9720864600029", "id": "clr"}, {"website": "", "price_btc": "0.00030505", "name": "Cosmoscoin", "volume_btc": "12.9520593150765", "id": "cmc"}, {"website": "", "price_btc": "0.00001762", "name": "CHNCoin", "volume_btc": "18.097510398987", "id": "cnc"}, {"website": "", "price_btc": "0.00000400", "name": "CNOTE", "volume_btc": "0.0163747503138597", "id": "cnote"}, {"website": "", "price_btc": "0.00000000", "name": "CNY", "volume_btc": "0", "id": "cny"}, {"website": "http://cur.lv/5rzrc", "price_btc": "0.00000001", "name": "ColossusCoin", "volume_btc": "7.49182332201439", "id": "col"}, {"website": "", "price_btc": "0.00001300", "name": "CON", "volume_btc": "4.05063014021954", "id": "con"}, {"website": "", "price_btc": "0.00000003", "name": "CORG", "volume_btc": "27.79899891023", "id": "corg"}, {"website": "", "price_btc": "0.00393700", "name": "CPR", "volume_btc": "0.097844278488", "id": "cpr"}, {"website": "", "price_btc": "0.00023817", "name": "CraftCoin", "volume_btc": "1.13368017228133", "id": "crc"}, {"website": "", "price_btc": "0.00001737", "name": "CasinoCoin", "volume_btc": "12.1082427998838", "id": "csc"}, {"website": "http://www.continuumcoin.com/", "price_btc": "0.00000002", "name": "Continuumcoin", "volume_btc": "31.6968595088227", "id": "ctm"}, {"website": "", "price_btc": "0.00004191", "name": "Doubloons", "volume_btc": "0.17860937880883", "id": "dbl"}, {"website": "http://www.deutsche-emark.org/", "price_btc": "0.00012001", "name": "Deutsche eMark", "volume_btc": "7.40419306599858", "id": "dem"}, {"website": "http://www.digibyte.co/", "price_btc": "0.00000066", "name": "DigiByte", "volume_btc": "10.1904336088756", "id": "dgb"}, {"website": "", "price_btc": "0.00025556", "name": "Digitalcoin", "volume_btc": "19.7358160757459", "id": "dgc"}, {"website": "http://cur.lv/62f4x", "price_btc": "0.00000001", "name": "Dimecoin", "volume_btc": "9.19611233564305", "id": "dime"}, {"website": "http://cur.lv/5rzsr", "price_btc": "0.00084838", "name": "Diamond", "volume_btc": "2.12938246088865", "id": "dmd"}, {"website": "http://cur.lv/5rztu", "price_btc": "0.00000211", "name": "DogeCoin", "volume_btc": "1531.59208471919", "id": "doge"}, {"website": "", "price_btc": "0.00179000", "name": "DRK", "volume_btc": "231.035223305531", "id": "drk"}, {"website": "", "price_btc": "0.00000439", "name": "DSC", "volume_btc": "0", "id": "dsc"}, {"website": "http://datacoin.info", "price_btc": "0.00024780", "name": "Datacoin", "volume_btc": "19.3643025202652", "id": "dtc"}, {"website": "", "price_btc": "1000.00000000", "name": "DUCK", "volume_btc": "0", "id": "duck"}, {"website": "http://cur.lv/5rzqs", "price_btc": "0.00000076", "name": "Devcoin", "volume_btc": "82.7236669697045", "id": "dvc"}, {"website": "http://cur.lv/62f4i", "price_btc": "0.00000102", "name": "EarthCoin", "volume_btc": "82.8535966541568", "id": "eac"}, {"website": "http://github.com/elacoin/elacoin", "price_btc": "0.00065507", "name": "ElaCoin", "volume_btc": "1.0930995322483", "id": "elc"}, {"website": "", "price_btc": "0.00000248", "name": "ELP", "volume_btc": "0.349059383854016", "id": "elp"}, {"website": "", "price_btc": "0.00001671", "name": "Emerald", "volume_btc": "0.504416086502864", "id": "emd"}, {"website": "", "price_btc": "0.00028490", "name": "eToken", "volume_btc": "1.50949760071296", "id": "etok"}, {"website": "", "price_btc": "0.00000000", "name": "EUR", "volume_btc": "0.02909883776", "id": "eur"}, {"website": "http://www.extremecoin.org", "price_btc": "0.00028999", "name": "Extremecoin", "volume_btc": "36.0893575250261", "id": "exc"}, {"website": "", "price_btc": "0.00000493", "name": "EZCoin", "volume_btc": "0.59384333518718", "id": "ezc"}, {"website": "http://cur.lv/62f5o", "price_btc": "0.00000130", "name": "FireFlyCoin", "volume_btc": "0.92682996586679", "id": "ffc"}, {"website": "", "price_btc": "0.00000006", "name": "FLAP", "volume_btc": "8.67868604962468", "id": "flap"}, {"website": "", "price_btc": "0.00001501", "name": "FlorinCoin", "volume_btc": "2.288477998052", "id": "flo"}, {"website": "", "price_btc": "0.00000145", "name": "FOX", "volume_btc": "0.075214336396423", "id": "fox"}, {"website": "", "price_btc": "0.00008920", "name": "Freicoin", "volume_btc": "70.3215883286134", "id": "frc"}, {"website": "", "price_btc": "0.00000305", "name": "FRE", "volume_btc": "0.00154059", "id": "fre"}, {"website": "", "price_btc": "0.00269769", "name": "FrankoCoin", "volume_btc": "2.76505916463546", "id": "frk"}, {"website": "", "price_btc": "0.00000019", "name": "FRQ", "volume_btc": "0.287197650767102", "id": "frq"}, {"website": "", "price_btc": "0.00000021", "name": "FRY", "volume_btc": "0", "id": "fry"}, {"website": "", "price_btc": "0.00000010", "name": "FSC", "volume_btc": "0.13297153", "id": "fsc"}, {"website": "", "price_btc": "0.00000861", "name": "FastCoin", "volume_btc": "3.96236048954788", "id": "fst"}, {"website": "", "price_btc": "0.00044000", "name": "Feathercoin", "volume_btc": "425.874141098304", "id": "ftc"}, {"website": "", "price_btc": "0.00009111", "name": "Frozen", "volume_btc": "0.965898642885947", "id": "fz"}, {"website": "", "price_btc": "0.00000076", "name": "GrandCoin", "volume_btc": "3.45751220871285", "id": "gdc"}, {"website": "", "price_btc": "0.00000000", "name": "Gilcoin", "volume_btc": "0", "id": "gil"}, {"website": "", "price_btc": "0.00004002", "name": "GLB", "volume_btc": "0.431351252108869", "id": "glb"}, {"website": "", "price_btc": "0.00000877", "name": "Globalcoin", "volume_btc": "13.1982568486415", "id": "glc"}, {"website": "", "price_btc": "0.00002398", "name": "GoldCoin", "volume_btc": "6.36868082528557", "id": "gld"}, {"website": "", "price_btc": "0.00000419", "name": "Galaxycoin", "volume_btc": "0.46536111776127", "id": "glx"}, {"website": "", "price_btc": "0.00000240", "name": "Gamecoins", "volume_btc": "0.189891513970366", "id": "gme"}, {"website": "http://graincoin.webs.com/", "price_btc": "0.00000010", "name": "Graincoin", "volume_btc": "0.543208236222414", "id": "gra"}, {"website": "", "price_btc": "0.00004501", "name": "GRC", "volume_btc": "1.66585123559338", "id": "grc"}, {"website": "", "price_btc": "0.00000230", "name": "GRW", "volume_btc": "0.0828299475916", "id": "grw"}, {"website": "http://cur.lv/5rztl", "price_btc": "0.00016367", "name": "HoboNickels", "volume_btc": "5.08144905586448", "id": "hbn"}, {"website": "", "price_btc": "0.00098110", "name": "HUC", "volume_btc": "7.35356379441589", "id": "huc"}, {"website": "http://cur.lv/5rzso", "price_btc": "0.00000000", "name": "Hypercoin", "volume_btc": "0", "id": "hyc"}, {"website": "", "price_btc": "0.00002850", "name": "I0C", "volume_btc": "0", "id": "i0c"}, {"website": "", "price_btc": "0.00003160", "name": "ICN", "volume_btc": "3.72032462541952", "id": "icn"}, {"website": "", "price_btc": "0.00000013", "name": "InfiniteCoin", "volume_btc": "306.836394039358", "id": "ifc"}, {"website": "", "price_btc": "0.00008265", "name": "ISK", "volume_btc": "0", "id": "isk"}, {"website": "", "price_btc": "0.00014899", "name": "IXCoin", "volume_btc": "3.94016450692146", "id": "ixc"}, {"website": "", "price_btc": "0.00002989", "name": "Junkcoin", "volume_btc": "3.71717116118412", "id": "jkc"}, {"website": "http://karmacoin.info/", "price_btc": "0.00000003", "name": "Karmacoin", "volume_btc": "172.668039081824", "id": "karm"}, {"website": "http://klondikecoin.com/", "price_btc": "0.00003801", "name": "KlondikeCoin", "volume_btc": "9.91117405548023", "id": "kdc"}, {"website": "http://cur.lv/5rzr7", "price_btc": "0.00000362", "name": "KrugerCoin", "volume_btc": "3.54594941518621", "id": "kgc"}, {"website": "http://cur.lv/5rzt2", "price_btc": "0.00000000", "name": "Lebowskis", "volume_btc": "0", "id": "lbw"}, {"website": "http://leafco.in/", "price_btc": "0.00000008", "name": "Leafcoin", "volume_btc": "43.8443244575477", "id": "leaf"}, {"website": "", "price_btc": "0.00000256", "name": "LK7", "volume_btc": "3.96861097082412", "id": "lk7"}, {"website": "http://cur.lv/5rzsc", "price_btc": "0.00001643", "name": "LuckyCoin", "volume_btc": "0.873940102953498", "id": "lky"}, {"website": "http://cur.lv/5rzq8", "price_btc": "0.00000015", "name": "LottoCoin", "volume_btc": "33.6468839520576", "id": "lot"}, {"website": "http://lovecoin.info/", "price_btc": "0.00001016", "name": "Lovecoin", "volume_btc": "0", "id": "love"}, {"website": "http://cur.lv/5rzqv", "price_btc": "0.02540000", "name": "Litecoin", "volume_btc": "93447.6864024934", "id": "ltc"}, {"website": "", "price_btc": "0.00191012", "name": "Maxcoin", "volume_btc": "871.204803839252", "id": "max"}, {"website": "http://cur.lv/5rzsn", "price_btc": "0.29450000", "name": "MCX", "volume_btc": "193.52320786", "id": "mcx"}, {"website": "http://cur.lv/5rzsl", "price_btc": "0.00057949", "name": "MegaCoin", "volume_btc": "60.4586521968098", "id": "mec"}, {"website": "", "price_btc": "0.00000000", "name": "MemeCoin", "volume_btc": "0.20014438609311", "id": "mem"}, {"website": "", "price_btc": "0.00000020", "name": "Kittehcoin", "volume_btc": "113.220513552101", "id": "meow"}, {"website": "", "price_btc": "0.00000005", "name": "MIM", "volume_btc": "6.09989560491017", "id": "mim"}, {"website": "", "price_btc": "0.00000007", "name": "MINT", "volume_btc": "60.5256858187906", "id": "mint"}, {"website": "http://memorycoin.org", "price_btc": "0.00024001", "name": "MemoryCoin", "volume_btc": "353.994493615772", "id": "mmc"}, {"website": "", "price_btc": "0.00128000", "name": "Mincoin", "volume_btc": "236.733858133499", "id": "mnc"}, {"website": "", "price_btc": "0.00000008", "name": "MoonCoin", "volume_btc": "48.7849988869864", "id": "moon"}, {"website": "", "price_btc": "0.00000003", "name": "MRC", "volume_btc": "9.6865748365962", "id": "mrc"}, {"website": "http://cur.lv/5rzpc", "price_btc": "0.11000000", "name": "Mastercoin", "volume_btc": "58.6708898260992", "id": "msc"}, {"website": "http://cur.lv/5rzq0", "price_btc": "0.00000521", "name": "MasterCoin", "volume_btc": "0.5535568919846", "id": "mst"}, {"website": "", "price_btc": "0.00023410", "name": "MTC", "volume_btc": "2.56995387839396", "id": "mtc"}, {"website": "https://mcxnow.com?r=xchrix", "price_btc": "0.00166300", "name": "mcxBUX", "volume_btc": "120.000423757187", "id": "mxb"}, {"website": "", "price_btc": "0.00001309", "name": "NanoToken", "volume_btc": "0.746623717423988", "id": "nan"}, {"website": "", "price_btc": "0.00002710", "name": "Nibble", "volume_btc": "4.62696917672541", "id": "nbl"}, {"website": "", "price_btc": "0.00004000", "name": "NEC", "volume_btc": "2.11224682303531", "id": "nec"}, {"website": "http://netcoinfoundation.org/", "price_btc": "0.00001170", "name": "Netcoin", "volume_btc": "70.333606939819", "id": "net"}, {"website": "", "price_btc": "0.00004950", "name": "NIB", "volume_btc": "0", "id": "nib"}, {"website": "http://cur.lv/62f6z", "price_btc": "0.00000023", "name": "Incakoin", "volume_btc": "0.102157502098469", "id": "nka"}, {"website": "", "price_btc": "0.00599000", "name": "Namecoin", "volume_btc": "1135.65829333048", "id": "nmc"}, {"website": "https://www.noblemovement.com/", "price_btc": "0.00000058", "name": "NobleCoin", "volume_btc": "14.4694339461021", "id": "nobl"}, {"website": "", "price_btc": "0.00000000", "name": "NOK", "volume_btc": "0", "id": "nok"}, {"website": "", "price_btc": "0.00004865", "name": "NoirBits", "volume_btc": "0.659855284920387", "id": "nrb"}, {"website": "", "price_btc": "0.01423000", "name": "Novacoin", "volume_btc": "55.1120505317117", "id": "nvc"}, {"website": "http://cur.lv/62fel", "price_btc": "0.00027457", "name": "Networkcoin", "volume_btc": "0", "id": "nwc"}, {"website": "http://cur.lv/5rzp0", "price_btc": "0.00009402", "name": "Nxt", "volume_btc": "363.272494590395", "id": "nxt"}, {"website": "http://nyancoin.org", "price_btc": "0.00001513", "name": "Nyancoin", "volume_btc": "4.8831183984977", "id": "nyan"}, {"website": "", "price_btc": "0.00000231", "name": "NYM", "volume_btc": "0.04972277955916", "id": "nym"}, {"website": "http://cur.lv/62f9g", "price_btc": "0.00000044", "name": "OnlineGamingCoin", "volume_btc": "0.00244096", "id": "ogc"}, {"website": "", "price_btc": "0.00000075", "name": "OLY", "volume_btc": "0.0962470578908485", "id": "oly"}, {"website": "http://cur.lv/62fe4", "price_btc": "0.00022618", "name": "Orbitcoin", "volume_btc": "0.687592378128278", "id": "orb"}, {"website": "", "price_btc": "0.00002107", "name": "OSC", "volume_btc": "1.3493917404211", "id": "osc"}, {"website": "", "price_btc": "0.00001710", "name": "PAND", "volume_btc": "2.61474311393573", "id": "pand"}, {"website": "", "price_btc": "0.00000005", "name": "PENG", "volume_btc": "12.3162805086786", "id": "peng"}, {"website": "", "price_btc": "0.00022444", "name": "PhilosopherStone", "volume_btc": "1.03307049981056", "id": "phs"}, {"website": "", "price_btc": "0.00048600", "name": "PMC", "volume_btc": "5.33115075680077", "id": "pmc"}, {"website": "http://cur.lv/5rzo4", "price_btc": "0.00090806", "name": "CryptsyPoints", "volume_btc": "0.678327073381517", "id": "points"}, {"website": "http://cur.lv/5rzp4", "price_btc": "0.00655000", "name": "Peercoin", "volume_btc": "995.868191051002", "id": "ppc"}, {"website": "", "price_btc": "0.00003652", "name": "PeopleCoin", "volume_btc": "0", "id": "ppl"}, {"website": "", "price_btc": "0.00009300", "name": "PRC", "volume_btc": "0.683750384862253", "id": "prc"}, {"website": "http://www.bitparticle.com/", "price_btc": "0.00000234", "name": "Particle", "volume_btc": "5.47151917750363", "id": "prt"}, {"website": "http://cur.lv/5rztd", "price_btc": "0.02900000", "name": "ProtoShares", "volume_btc": "1941.6354163067", "id": "pts"}, {"website": "", "price_btc": "0.00000003", "name": "PWC", "volume_btc": "0", "id": "pwc"}, {"website": "", "price_btc": "0.00001128", "name": "PhenixCoin", "volume_btc": "1.70565109525708", "id": "pxc"}, {"website": "http://www.pxlcoin.com/", "price_btc": "0.00015250", "name": "PixelCoin", "volume_btc": "0.2682137782", "id": "pxl"}, {"website": "http://cur.lv/5rzsj", "price_btc": "0.00008999", "name": "PayCoin", "volume_btc": "8.12411640459858", "id": "pyc"}, {"website": "", "price_btc": "0.00000200", "name": "Q2C", "volume_btc": "2.52679791229659", "id": "q2c"}, {"website": "http://qqco.in/", "price_btc": "0.00001590", "name": "QQcoin", "volume_btc": "2.08140861215917", "id": "qqc"}, {"website": "http://cur.lv/5rzq3", "price_btc": "0.00010400", "name": "Quarkcoin", "volume_btc": "153.098028507206", "id": "qrk"}, {"website": "", "price_btc": "0.00000007", "name": "Richcoin", "volume_btc": "0.00359961502299", "id": "rch"}, {"website": "", "price_btc": "0.00000010", "name": "RDD", "volume_btc": "74.3313933465082", "id": "rdd"}, {"website": "", "price_btc": "0.00000019", "name": "RealCoin", "volume_btc": "0.368999034141979", "id": "rec"}, {"website": "http://cur.lv/5rzrn", "price_btc": "0.00001438", "name": "RedCoin", "volume_btc": "33.6116641406096", "id": "red"}, {"website": "", "price_btc": "0.00101000", "name": "RIC", "volume_btc": "10.8135125119299", "id": "ric"}, {"website": "http://www.ronpaulcoin.com", "price_btc": "0.00804999", "name": "RonPaulCoin", "volume_btc": "6.776214116838", "id": "rpc"}, {"website": "", "price_btc": "0.00001231", "name": "RPD", "volume_btc": "1.75819919400998", "id": "rpd"}, {"website": "", "price_btc": "0.00000000", "name": "Russian ruble", "volume_btc": "0", "id": "rur"}, {"website": "", "price_btc": "0.00000000", "name": "RoyalCoin", "volume_btc": "0.11895217828206", "id": "ryc"}, {"website": "", "price_btc": "0.00000005", "name": "SAV", "volume_btc": "0", "id": "sav"}, {"website": "", "price_btc": "0.00002449", "name": "StableCoin", "volume_btc": "1.56047565011059", "id": "sbc"}, {"website": "", "price_btc": "0.00031000", "name": "SC", "volume_btc": "9.628520390326", "id": "sc"}, {"website": "", "price_btc": "0.00001200", "name": "SKC", "volume_btc": "0.1999317295", "id": "skc"}, {"website": "", "price_btc": "0.00000658", "name": "SLL", "volume_btc": "159.560000000002", "id": "sll"}, {"website": "http://getsmartcoin.com/", "price_btc": "0.00004950", "name": "Smartcoin", "volume_btc": "14.1967805129089", "id": "smc"}, {"website": "", "price_btc": "0.00000015", "name": "SOC", "volume_btc": "0.320594136184109", "id": "soc"}, {"website": "", "price_btc": "0.00001882", "name": "Spots", "volume_btc": "0.569505968860471", "id": "spt"}, {"website": "http://cur.lv/5rzsx", "price_btc": "0.00096822", "name": "SecureCoin", "volume_btc": "11.0395568257501", "id": "src"}, {"website": "", "price_btc": "0.00000550", "name": "STC", "volume_btc": "0.036254019999995", "id": "stc"}, {"website": "http://cur.lv/5rzow", "price_btc": "0.00000174", "name": "StarCoin", "volume_btc": "2.60063071987315", "id": "str"}, {"website": "http://cur.lv/5rzph", "price_btc": "0.00001005", "name": "Sexcoin", "volume_btc": "1.79363638884028", "id": "sxc"}, {"website": "", "price_btc": "0.00110555", "name": "TagCoin", "volume_btc": "14.2035793267082", "id": "tag"}, {"website": "http://www.teacoin.net/", "price_btc": "0.00000412", "name": "Teacoin", "volume_btc": "1.09073489894238", "id": "tea"}, {"website": "", "price_btc": "0.00019995", "name": "TEK", "volume_btc": "1.79928326536565", "id": "tek"}, {"website": "http://www.teslacoins.com/", "price_btc": "0.00000204", "name": "TeslaCoin", "volume_btc": "2.29368855060811", "id": "tes"}, {"website": "", "price_btc": "0.00000760", "name": "Tigercoin", "volume_btc": "1.44513249004129", "id": "tgc"}, {"website": "http://cur.lv/62fav", "price_btc": "0.00000001", "name": "Fedoracoin", "volume_btc": "11.2759843085123", "id": "tips"}, {"website": "", "price_btc": "0.00000003", "name": "Tickets", "volume_btc": "44.3272240409837", "id": "tix"}, {"website": "", "price_btc": "0.00039000", "name": "Terracoin", "volume_btc": "33.4173314257635", "id": "trc"}, {"website": "", "price_btc": "0.00000002", "name": "TTC", "volume_btc": "0.0003375376462264", "id": "ttc"}, {"website": "", "price_btc": "0.00000028", "name": "UFC", "volume_btc": "0", "id": "ufc"}, {"website": "", "price_btc": "0.00000150", "name": "UNI", "volume_btc": "0", "id": "uni"}, {"website": "", "price_btc": "0.01561000", "name": "UNO", "volume_btc": "136.120825137545", "id": "uno"}, {"website": "", "price_btc": "0.00000000", "name": "US Dollar", "volume_btc": "0", "id": "usd"}, {"website": "", "price_btc": "0.00000061", "name": "Unitary Status Dollar eCoin", "volume_btc": "7.94755187448002", "id": "usde"}, {"website": "", "price_btc": "0.00040000", "name": "UTC", "volume_btc": "6.41713584068482", "id": "utc"}, {"website": "http://velocitycoin.com/", "price_btc": "0.00000750", "name": "Velocitycoin", "volume_btc": "3.71081513943975", "id": "vel"}, {"website": "http://vertcoin.org", "price_btc": "0.00358499", "name": "VertCoin", "volume_btc": "715.062063646324", "id": "vtc"}, {"website": "", "price_btc": "0.00022000", "name": "WorldCoin", "volume_btc": "119.776449443385", "id": "wdc"}, {"website": "", "price_btc": "0.00000777", "name": "WIKI", "volume_btc": "0.5642042081671", "id": "wiki"}, {"website": "", "price_btc": "0.00104999", "name": "WOLF", "volume_btc": "10.240971007808", "id": "wolf"}, {"website": "", "price_btc": "0.00989999", "name": "XCP", "volume_btc": "7.85995540025885", "id": "xcp"}, {"website": "https://www.xivra.com", "price_btc": "0.00000027", "name": "Xivra", "volume_btc": "1.32740441756058", "id": "xiv"}, {"website": "http://cur.lv/5rzs1", "price_btc": "0.00002032", "name": "JouleCoin", "volume_btc": "0.398058182374341", "id": "xjo"}, {"website": "", "price_btc": "0.00000043", "name": "XenCoin", "volume_btc": "1.01767805467279", "id": "xnc"}, {"website": "http://cur.lv/5rzt0", "price_btc": "0.00311000", "name": "PrimeCoin", "volume_btc": "126.866757709498", "id": "xpm"}, {"website": "", "price_btc": "0.00002550", "name": "XRP", "volume_btc": "11.4120106380521", "id": "xrp"}, {"website": "http://www.yacoin.org/", "price_btc": "0.00003622", "name": "Yacoin", "volume_btc": "48.0603118391207", "id": "yac"}, {"website": "http://cur.lv/5rzor", "price_btc": "0.00569597", "name": "YBCoin", "volume_btc": "3.82420712552982", "id": "ybc"}, {"website": "http://www.zhaocaibi.com/?lang=en", "price_btc": "0.00022395", "name": "ZcCoin", "volume_btc": "14.3921587799905", "id": "zcc"}, {"website": "", "price_btc": "0.00000280", "name": "ZED", "volume_btc": "0.01532307900001", "id": "zed"}, {"website": "http://cur.lv/5rzoe", "price_btc": "0.00002141", "name": "ZetaCoin", "volume_btc": "28.2483557395448", "id": "zet"}]
+[
+{
+"volume_btc": "12.5114742407459", 
+"name": "FourtyTwoCoin", 
+"price_btc": "175.70000002", 
+"id": "42", 
+"website": "http://fourtytwo42.com/"
+}, 
+{
+"volume_btc": "0", 
+"name": "ADT", 
+"price_btc": "0.00000001", 
+"id": "adt", 
+"website": ""
+}, 
+{
+"volume_btc": "2.31511808698997", 
+"name": "AlphaCoin", 
+"price_btc": "0.00000482", 
+"id": "alf", 
+"website": "http://cur.lv/5rzs5"
+}, 
+{
+"volume_btc": "0.0236248581425897", 
+"name": "ALP", 
+"price_btc": "0.00000408", 
+"id": "alp", 
+"website": ""
+}, 
+{
+"volume_btc": "0.411305910635944", 
+"name": "AmericanCoin", 
+"price_btc": "0.00000609", 
+"id": "amc", 
+"website": ""
+}, 
+{
+"volume_btc": "14.8290772311325", 
+"name": "AnonCoin", 
+"price_btc": "0.00273999", 
+"id": "anc", 
+"website": "http://anoncoin.net"
+}, 
+{
+"volume_btc": "0", 
+"name": "ANT", 
+"price_btc": "0.00000100", 
+"id": "ant", 
+"website": ""
+}, 
+{
+"volume_btc": "1.78010877268389", 
+"name": "Argentum", 
+"price_btc": "0.00019029", 
+"id": "arg", 
+"website": ""
+}, 
+{
+"volume_btc": "0.94574326805744", 
+"name": "ASC", 
+"price_btc": "0.00000070", 
+"id": "asc", 
+"website": ""
+}, 
+{
+"volume_btc": "0.791790374176344", 
+"name": "AstroCoin", 
+"price_btc": "0.00380000", 
+"id": "asr", 
+"website": ""
+}, 
+{
+"volume_btc": "0.216521618422121", 
+"name": "ATP", 
+"price_btc": "0.05100000", 
+"id": "atp", 
+"website": ""
+}, 
+{
+"volume_btc": "2.09471014235169", 
+"name": "AUR", 
+"price_btc": "0.00651000", 
+"id": "aur", 
+"website": ""
+}, 
+{
+"volume_btc": "3.0788270951598", 
+"name": "BCX", 
+"price_btc": "0.00001871", 
+"id": "bcx", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "BeaoCoin", 
+"price_btc": "0.00061711", 
+"id": "bec", 
+"website": "http://cur.lv/62fdg"
+}, 
+{
+"volume_btc": "1.45806798877994", 
+"name": "BET", 
+"price_btc": "0.00003000", 
+"id": "bet", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "BFC", 
+"price_btc": "0.00000048", 
+"id": "bfc", 
+"website": ""
+}, 
+{
+"volume_btc": "5.18020651915366", 
+"name": "BillionCoin", 
+"price_btc": "0.00000026", 
+"id": "bil", 
+"website": "http://billioncoin.net/"
+}, 
+{
+"volume_btc": "1.88392202183604", 
+"name": "Blakecoin", 
+"price_btc": "0.00011100", 
+"id": "blc", 
+"website": "http://www.blakecoin.org/"
+}, 
+{
+"volume_btc": "0", 
+"name": "Bountycoin", 
+"price_btc": "0.00000163", 
+"id": "boc", 
+"website": "http://www.bountycoin.org/"
+}, 
+{
+"volume_btc": "8.00796021237134", 
+"name": "BBQCoin", 
+"price_btc": "0.00003140", 
+"id": "bqc", 
+"website": ""
+}, 
+{
+"volume_btc": "8.29290735570962", 
+"name": "BitBar", 
+"price_btc": "0.07921602", 
+"id": "btb", 
+"website": ""
+}, 
+{
+"volume_btc": "183480.42504458", 
+"name": "Bitcoin", 
+"price_btc": "1.00000000", 
+"id": "btc", 
+"website": "http://bitcoin.org"
+}, 
+{
+"volume_btc": "0.0672234988305718", 
+"name": "Bytecoin", 
+"price_btc": "0.00011073", 
+"id": "bte", 
+"website": ""
+}, 
+{
+"volume_btc": "2.24743797525298", 
+"name": "Bitgem", 
+"price_btc": "0.00918000", 
+"id": "btg", 
+"website": "http://cur.lv/5rzsu"
+}, 
+{
+"volume_btc": "0", 
+"name": "BTQ", 
+"price_btc": "0.00083029", 
+"id": "btq", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "BTR", 
+"price_btc": "0.00000107", 
+"id": "btr", 
+"website": ""
+}, 
+{
+"volume_btc": "0.149782325694105", 
+"name": "BUK", 
+"price_btc": "0.00026644", 
+"id": "buk", 
+"website": ""
+}, 
+{
+"volume_btc": "31.3980407831259", 
+"name": "CACH", 
+"price_btc": "0.00494000", 
+"id": "cach", 
+"website": ""
+}, 
+{
+"volume_btc": "15.9518201609414", 
+"name": "Cagecoin", 
+"price_btc": "0.00000001", 
+"id": "cage", 
+"website": "http://www.cagecoin.com/"
+}, 
+{
+"volume_btc": "1.0469945812365", 
+"name": "CAP", 
+"price_btc": "0.00002149", 
+"id": "cap", 
+"website": ""
+}, 
+{
+"volume_btc": "3.25635546928242", 
+"name": "Cash", 
+"price_btc": "0.00010119", 
+"id": "cash", 
+"website": "http://www.cash-coin.org/"
+}, 
+{
+"volume_btc": "3.32427038380826", 
+"name": "CatCoin", 
+"price_btc": "0.00029516", 
+"id": "cat", 
+"website": ""
+}, 
+{
+"volume_btc": "0.777937516570091", 
+"name": "Cloudcoin", 
+"price_btc": "0.00003635", 
+"id": "cdc", 
+"website": ""
+}, 
+{
+"volume_btc": "0.0805185183674094", 
+"name": "Pennies", 
+"price_btc": "0.00000000", 
+"id": "cent", 
+"website": "http://cur.lv/5rzpo"
+}, 
+{
+"volume_btc": "3.91259370092303", 
+"name": "CGA", 
+"price_btc": "0.00681000", 
+"id": "cga", 
+"website": ""
+}, 
+{
+"volume_btc": "6.23292562036403", 
+"name": "CryptogenicBullion", 
+"price_btc": "0.00111492", 
+"id": "cgb", 
+"website": "https://cryptogenicbullion.org"
+}, 
+{
+"volume_btc": "0.0756118787676101", 
+"name": "CIN", 
+"price_btc": "0.00001958", 
+"id": "cin", 
+"website": ""
+}, 
+{
+"volume_btc": "9.72157378525527", 
+"name": "CopperLark", 
+"price_btc": "0.00029000", 
+"id": "clr", 
+"website": "http://cur.lv/5rzqi"
+}, 
+{
+"volume_btc": "7.21223983561521", 
+"name": "Cosmoscoin", 
+"price_btc": "0.00029492", 
+"id": "cmc", 
+"website": ""
+}, 
+{
+"volume_btc": "7.73671565104504", 
+"name": "CHNCoin", 
+"price_btc": "0.00001759", 
+"id": "cnc", 
+"website": ""
+}, 
+{
+"volume_btc": "0.552097603562288", 
+"name": "CNOTE", 
+"price_btc": "0.00001300", 
+"id": "cnote", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "CNY", 
+"price_btc": "0.00000000", 
+"id": "cny", 
+"website": ""
+}, 
+{
+"volume_btc": "35.5586108230152", 
+"name": "ColossusCoin", 
+"price_btc": "0.00000001", 
+"id": "col", 
+"website": "http://cur.lv/5rzrc"
+}, 
+{
+"volume_btc": "2.39725871360861", 
+"name": "CON", 
+"price_btc": "0.00001500", 
+"id": "con", 
+"website": ""
+}, 
+{
+"volume_btc": "7.91779070239607", 
+"name": "CORG", 
+"price_btc": "0.00000002", 
+"id": "corg", 
+"website": ""
+}, 
+{
+"volume_btc": "0.11433055945434", 
+"name": "CPR", 
+"price_btc": "0.00538230", 
+"id": "cpr", 
+"website": ""
+}, 
+{
+"volume_btc": "0.492673853476049", 
+"name": "CraftCoin", 
+"price_btc": "0.00021001", 
+"id": "crc", 
+"website": ""
+}, 
+{
+"volume_btc": "2.2146615749225", 
+"name": "CasinoCoin", 
+"price_btc": "0.00001287", 
+"id": "csc", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "Continuumcoin", 
+"price_btc": "0.00000002", 
+"id": "ctm", 
+"website": "http://www.continuumcoin.com/"
+}, 
+{
+"volume_btc": "1.43290395945", 
+"name": "Doubloons", 
+"price_btc": "0.00003410", 
+"id": "dbl", 
+"website": ""
+}, 
+{
+"volume_btc": "5.43337832665566", 
+"name": "Deutsche eMark", 
+"price_btc": "0.00008997", 
+"id": "dem", 
+"website": "http://www.deutsche-emark.org/"
+}, 
+{
+"volume_btc": "6.4751780894876", 
+"name": "DigiByte", 
+"price_btc": "0.00000063", 
+"id": "dgb", 
+"website": "http://www.digibyte.co/"
+}, 
+{
+"volume_btc": "14.238639283007", 
+"name": "Digitalcoin", 
+"price_btc": "0.00024470", 
+"id": "dgc", 
+"website": ""
+}, 
+{
+"volume_btc": "9.35511136121423", 
+"name": "Dimecoin", 
+"price_btc": "0.00000001", 
+"id": "dime", 
+"website": "http://cur.lv/62f4x"
+}, 
+{
+"volume_btc": "2.17297053267248", 
+"name": "Diamond", 
+"price_btc": "0.00064373", 
+"id": "dmd", 
+"website": "http://cur.lv/5rzsr"
+}, 
+{
+"volume_btc": "1143.56062080757", 
+"name": "DogeCoin", 
+"price_btc": "0.00000190", 
+"id": "doge", 
+"website": "http://cur.lv/5rztu"
+}, 
+{
+"volume_btc": "232.095079238699", 
+"name": "DRK", 
+"price_btc": "0.00147000", 
+"id": "drk", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "DSC", 
+"price_btc": "0.00000982", 
+"id": "dsc", 
+"website": ""
+}, 
+{
+"volume_btc": "4.96678280393201", 
+"name": "Datacoin", 
+"price_btc": "0.00025999", 
+"id": "dtc", 
+"website": "http://datacoin.info"
+}, 
+{
+"volume_btc": "0", 
+"name": "DUCK", 
+"price_btc": "5.00000000", 
+"id": "duck", 
+"website": ""
+}, 
+{
+"volume_btc": "28.6018523410674", 
+"name": "Devcoin", 
+"price_btc": "0.00000064", 
+"id": "dvc", 
+"website": "http://cur.lv/5rzqs"
+}, 
+{
+"volume_btc": "20.0897898387784", 
+"name": "EarthCoin", 
+"price_btc": "0.00000072", 
+"id": "eac", 
+"website": "http://cur.lv/62f4i"
+}, 
+{
+"volume_btc": "4.61034066935957", 
+"name": "ElaCoin", 
+"price_btc": "0.00056804", 
+"id": "elc", 
+"website": "http://github.com/elacoin/elacoin"
+}, 
+{
+"volume_btc": "0.305383114417699", 
+"name": "ELP", 
+"price_btc": "0.00000101", 
+"id": "elp", 
+"website": ""
+}, 
+{
+"volume_btc": "0.619696689135906", 
+"name": "Emerald", 
+"price_btc": "0.00001701", 
+"id": "emd", 
+"website": ""
+}, 
+{
+"volume_btc": "0.486955256476065", 
+"name": "eToken", 
+"price_btc": "0.00023000", 
+"id": "etok", 
+"website": ""
+}, 
+{
+"volume_btc": "0.67520681619141", 
+"name": "EUR", 
+"price_btc": "0.00000000", 
+"id": "eur", 
+"website": ""
+}, 
+{
+"volume_btc": "3.72096210077333", 
+"name": "Extremecoin", 
+"price_btc": "0.00023630", 
+"id": "exc", 
+"website": "http://www.extremecoin.org"
+}, 
+{
+"volume_btc": "1.17415358927489", 
+"name": "EZCoin", 
+"price_btc": "0.00001219", 
+"id": "ezc", 
+"website": ""
+}, 
+{
+"volume_btc": "0.823396765481448", 
+"name": "FireFlyCoin", 
+"price_btc": "0.00000111", 
+"id": "ffc", 
+"website": "http://cur.lv/62f5o"
+}, 
+{
+"volume_btc": "10.7550957330095", 
+"name": "FLAP", 
+"price_btc": "0.00000003", 
+"id": "flap", 
+"website": ""
+}, 
+{
+"volume_btc": "0.42440491685101", 
+"name": "FlorinCoin", 
+"price_btc": "0.00001501", 
+"id": "flo", 
+"website": ""
+}, 
+{
+"volume_btc": "0.0603146854209626", 
+"name": "FOX", 
+"price_btc": "0.00000104", 
+"id": "fox", 
+"website": ""
+}, 
+{
+"volume_btc": "12.1971629593675", 
+"name": "Freicoin", 
+"price_btc": "0.00007950", 
+"id": "frc", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "FRE", 
+"price_btc": "0.00000330", 
+"id": "fre", 
+"website": ""
+}, 
+{
+"volume_btc": "1.45274605706248", 
+"name": "FrankoCoin", 
+"price_btc": "0.00236200", 
+"id": "frk", 
+"website": ""
+}, 
+{
+"volume_btc": "0.852800130507262", 
+"name": "FRQ", 
+"price_btc": "0.00000033", 
+"id": "frq", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "FRY", 
+"price_btc": "0.00000005", 
+"id": "fry", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "FSC", 
+"price_btc": "0.00000001", 
+"id": "fsc", 
+"website": ""
+}, 
+{
+"volume_btc": "2.17141786194213", 
+"name": "FastCoin", 
+"price_btc": "0.00000807", 
+"id": "fst", 
+"website": ""
+}, 
+{
+"volume_btc": "58.8995236940255", 
+"name": "Feathercoin", 
+"price_btc": "0.00044000", 
+"id": "ftc", 
+"website": ""
+}, 
+{
+"volume_btc": "1.99131914380496", 
+"name": "Frozen", 
+"price_btc": "0.00009221", 
+"id": "fz", 
+"website": ""
+}, 
+{
+"volume_btc": "0.947887769996271", 
+"name": "GrandCoin", 
+"price_btc": "0.00000065", 
+"id": "gdc", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "Gilcoin", 
+"price_btc": "0.00000000", 
+"id": "gil", 
+"website": ""
+}, 
+{
+"volume_btc": "0.0528842355633969", 
+"name": "GLB", 
+"price_btc": "0.00003701", 
+"id": "glb", 
+"website": ""
+}, 
+{
+"volume_btc": "6.95737957490499", 
+"name": "Globalcoin", 
+"price_btc": "0.00000518", 
+"id": "glc", 
+"website": ""
+}, 
+{
+"volume_btc": "3.97505501326269", 
+"name": "GoldCoin", 
+"price_btc": "0.00002202", 
+"id": "gld", 
+"website": ""
+}, 
+{
+"volume_btc": "0.229680545573501", 
+"name": "Galaxycoin", 
+"price_btc": "0.00000380", 
+"id": "glx", 
+"website": ""
+}, 
+{
+"volume_btc": "0.203638840461463", 
+"name": "Gamecoins", 
+"price_btc": "0.00000045", 
+"id": "gme", 
+"website": ""
+}, 
+{
+"volume_btc": "0.257741595424688", 
+"name": "Graincoin", 
+"price_btc": "0.00000006", 
+"id": "gra", 
+"website": "http://graincoin.webs.com/"
+}, 
+{
+"volume_btc": "0", 
+"name": "GRC", 
+"price_btc": "0.00011999", 
+"id": "grc", 
+"website": ""
+}, 
+{
+"volume_btc": "0.09504", 
+"name": "GRW", 
+"price_btc": "0.00000288", 
+"id": "grw", 
+"website": ""
+}, 
+{
+"volume_btc": "5.50963384564966", 
+"name": "HoboNickels", 
+"price_btc": "0.00021495", 
+"id": "hbn", 
+"website": "http://cur.lv/5rztl"
+}, 
+{
+"volume_btc": "28.8609932116233", 
+"name": "HUC", 
+"price_btc": "0.00140000", 
+"id": "huc", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "Hypercoin", 
+"price_btc": "0.00000000", 
+"id": "hyc", 
+"website": "http://cur.lv/5rzso"
+}, 
+{
+"volume_btc": "0.026664899662137", 
+"name": "I0C", 
+"price_btc": "0.00002665", 
+"id": "i0c", 
+"website": ""
+}, 
+{
+"volume_btc": "2.16121980280332", 
+"name": "ICN", 
+"price_btc": "0.00003151", 
+"id": "icn", 
+"website": ""
+}, 
+{
+"volume_btc": "140.988104152621", 
+"name": "InfiniteCoin", 
+"price_btc": "0.00000013", 
+"id": "ifc", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "ISK", 
+"price_btc": "0.00008443", 
+"id": "isk", 
+"website": ""
+}, 
+{
+"volume_btc": "3.13460034665331", 
+"name": "IXCoin", 
+"price_btc": "0.00013686", 
+"id": "ixc", 
+"website": ""
+}, 
+{
+"volume_btc": "3.15814409480157", 
+"name": "Junkcoin", 
+"price_btc": "0.00002560", 
+"id": "jkc", 
+"website": ""
+}, 
+{
+"volume_btc": "151.148778971285", 
+"name": "Karmacoin", 
+"price_btc": "0.00000003", 
+"id": "karm", 
+"website": "http://karmacoin.info/"
+}, 
+{
+"volume_btc": "11.1479358003598", 
+"name": "KlondikeCoin", 
+"price_btc": "0.00003900", 
+"id": "kdc", 
+"website": "http://klondikecoin.com/"
+}, 
+{
+"volume_btc": "14.932246469253", 
+"name": "KrugerCoin", 
+"price_btc": "0.00000679", 
+"id": "kgc", 
+"website": "http://cur.lv/5rzr7"
+}, 
+{
+"volume_btc": "0", 
+"name": "Lebowskis", 
+"price_btc": "0.00000000", 
+"id": "lbw", 
+"website": "http://cur.lv/5rzt2"
+}, 
+{
+"volume_btc": "25.3767243365393", 
+"name": "Leafcoin", 
+"price_btc": "0.00000006", 
+"id": "leaf", 
+"website": "http://leafco.in/"
+}, 
+{
+"volume_btc": "1.30543844163185", 
+"name": "LK7", 
+"price_btc": "0.00000185", 
+"id": "lk7", 
+"website": ""
+}, 
+{
+"volume_btc": "4.05780073464848", 
+"name": "LuckyCoin", 
+"price_btc": "0.00001608", 
+"id": "lky", 
+"website": "http://cur.lv/5rzsc"
+}, 
+{
+"volume_btc": "13.9842557168002", 
+"name": "LottoCoin", 
+"price_btc": "0.00000013", 
+"id": "lot", 
+"website": "http://cur.lv/5rzq8"
+}, 
+{
+"volume_btc": "0", 
+"name": "Lovecoin", 
+"price_btc": "0.00000954", 
+"id": "love", 
+"website": "http://lovecoin.info/"
+}, 
+{
+"volume_btc": "150703.929492078", 
+"name": "Litecoin", 
+"price_btc": "0.02563000", 
+"id": "ltc", 
+"website": "http://cur.lv/5rzqv"
+}, 
+{
+"volume_btc": "422.818756898572", 
+"name": "Maxcoin", 
+"price_btc": "0.00116000", 
+"id": "max", 
+"website": ""
+}, 
+{
+"volume_btc": "179.427467048168", 
+"name": "MCX", 
+"price_btc": "0.23989990", 
+"id": "mcx", 
+"website": "http://cur.lv/5rzsn"
+}, 
+{
+"volume_btc": "57.6810140045146", 
+"name": "MegaCoin", 
+"price_btc": "0.00062012", 
+"id": "mec", 
+"website": "http://cur.lv/5rzsl"
+}, 
+{
+"volume_btc": "1.13672426901758", 
+"name": "MED", 
+"price_btc": "0.00004189", 
+"id": "med", 
+"website": ""
+}, 
+{
+"volume_btc": "0.20869422715628", 
+"name": "MemeCoin", 
+"price_btc": "0.00000000", 
+"id": "mem", 
+"website": ""
+}, 
+{
+"volume_btc": "20.1262618300153", 
+"name": "Kittehcoin", 
+"price_btc": "0.00000023", 
+"id": "meow", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "MIM", 
+"price_btc": "0.00000003", 
+"id": "mim", 
+"website": ""
+}, 
+{
+"volume_btc": "240.998423099517", 
+"name": "MINT", 
+"price_btc": "0.00000034", 
+"id": "mint", 
+"website": ""
+}, 
+{
+"volume_btc": "28.4991411132032", 
+"name": "MemoryCoin", 
+"price_btc": "0.00021004", 
+"id": "mmc", 
+"website": "http://memorycoin.org"
+}, 
+{
+"volume_btc": "70.4994813716039", 
+"name": "Mincoin", 
+"price_btc": "0.00094900", 
+"id": "mnc", 
+"website": ""
+}, 
+{
+"volume_btc": "37.551262597881", 
+"name": "MoonCoin", 
+"price_btc": "0.00000005", 
+"id": "moon", 
+"website": ""
+}, 
+{
+"volume_btc": "24.331061380403", 
+"name": "MRC", 
+"price_btc": "0.00000007", 
+"id": "mrc", 
+"website": ""
+}, 
+{
+"volume_btc": "23.798187084496", 
+"name": "Mastercoin", 
+"price_btc": "0.09100000", 
+"id": "msc", 
+"website": "http://cur.lv/5rzpc"
+}, 
+{
+"volume_btc": "0.17070000957819", 
+"name": "MasterCoin", 
+"price_btc": "0.00000459", 
+"id": "mst", 
+"website": "http://cur.lv/5rzq0"
+}, 
+{
+"volume_btc": "0", 
+"name": "MTC", 
+"price_btc": "0.00018000", 
+"id": "mtc", 
+"website": ""
+}, 
+{
+"volume_btc": "1.64099446375621", 
+"name": "MTS", 
+"price_btc": "0.00011101", 
+"id": "mts", 
+"website": ""
+}, 
+{
+"volume_btc": "107.240170588571", 
+"name": "mcxBUX", 
+"price_btc": "0.00178002", 
+"id": "mxb", 
+"website": "https://mcxnow.com?r=xchrix"
+}, 
+{
+"volume_btc": "0.492155861601276", 
+"name": "NanoToken", 
+"price_btc": "0.00001111", 
+"id": "nan", 
+"website": ""
+}, 
+{
+"volume_btc": "3.09143478726037", 
+"name": "Nibble", 
+"price_btc": "0.00004395", 
+"id": "nbl", 
+"website": ""
+}, 
+{
+"volume_btc": "0.818956571805756", 
+"name": "NEC", 
+"price_btc": "0.00003752", 
+"id": "nec", 
+"website": ""
+}, 
+{
+"volume_btc": "26.4773841179766", 
+"name": "Netcoin", 
+"price_btc": "0.00001146", 
+"id": "net", 
+"website": "http://netcoinfoundation.org/"
+}, 
+{
+"volume_btc": "0", 
+"name": "NIB", 
+"price_btc": "0.00004950", 
+"id": "nib", 
+"website": ""
+}, 
+{
+"volume_btc": "0.0765295746920992", 
+"name": "Incakoin", 
+"price_btc": "0.00000016", 
+"id": "nka", 
+"website": "http://cur.lv/62f6z"
+}, 
+{
+"volume_btc": "825.65037496643", 
+"name": "Namecoin", 
+"price_btc": "0.00590000", 
+"id": "nmc", 
+"website": ""
+}, 
+{
+"volume_btc": "22.3612165917584", 
+"name": "NobleCoin", 
+"price_btc": "0.00000065", 
+"id": "nobl", 
+"website": "https://www.noblemovement.com/"
+}, 
+{
+"volume_btc": "0", 
+"name": "NOK", 
+"price_btc": "0.00000000", 
+"id": "nok", 
+"website": ""
+}, 
+{
+"volume_btc": "0.147897066074734", 
+"name": "NoirBits", 
+"price_btc": "0.00004399", 
+"id": "nrb", 
+"website": ""
+}, 
+{
+"volume_btc": "28.072222247011", 
+"name": "Novacoin", 
+"price_btc": "0.01415000", 
+"id": "nvc", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "Networkcoin", 
+"price_btc": "0.00028081", 
+"id": "nwc", 
+"website": "http://cur.lv/62fel"
+}, 
+{
+"volume_btc": "170.385857746833", 
+"name": "Nxt", 
+"price_btc": "0.00008300", 
+"id": "nxt", 
+"website": "http://cur.lv/5rzp0"
+}, 
+{
+"volume_btc": "3.63539927107468", 
+"name": "Nyancoin", 
+"price_btc": "0.00001330", 
+"id": "nyan", 
+"website": "http://nyancoin.org"
+}, 
+{
+"volume_btc": "0.00936399918282405", 
+"name": "NYM", 
+"price_btc": "0.00000232", 
+"id": "nym", 
+"website": ""
+}, 
+{
+"volume_btc": "0.00377930005197413", 
+"name": "OnlineGamingCoin", 
+"price_btc": "0.00000042", 
+"id": "ogc", 
+"website": "http://cur.lv/62f9g"
+}, 
+{
+"volume_btc": "0.245649303865321", 
+"name": "OLY", 
+"price_btc": "0.00000060", 
+"id": "oly", 
+"website": ""
+}, 
+{
+"volume_btc": "0.0447970586246811", 
+"name": "Orbitcoin", 
+"price_btc": "0.00021818", 
+"id": "orb", 
+"website": "http://cur.lv/62fe4"
+}, 
+{
+"volume_btc": "0.956859018537216", 
+"name": "OSC", 
+"price_btc": "0.00001898", 
+"id": "osc", 
+"website": ""
+}, 
+{
+"volume_btc": "0.658719728710848", 
+"name": "PAND", 
+"price_btc": "0.00001329", 
+"id": "pand", 
+"website": ""
+}, 
+{
+"volume_btc": "22.7741651058703", 
+"name": "PENG", 
+"price_btc": "0.00000005", 
+"id": "peng", 
+"website": ""
+}, 
+{
+"volume_btc": "1.4547021407634", 
+"name": "PHO", 
+"price_btc": "0.00000013", 
+"id": "pho", 
+"website": ""
+}, 
+{
+"volume_btc": "1.22657618753146", 
+"name": "PhilosopherStone", 
+"price_btc": "0.00021484", 
+"id": "phs", 
+"website": ""
+}, 
+{
+"volume_btc": "4.51867627189495", 
+"name": "PMC", 
+"price_btc": "0.00067000", 
+"id": "pmc", 
+"website": ""
+}, 
+{
+"volume_btc": "2.16586416400969", 
+"name": "CryptsyPoints", 
+"price_btc": "0.00091506", 
+"id": "points", 
+"website": "http://cur.lv/5rzo4"
+}, 
+{
+"volume_btc": "1049.9231052983", 
+"name": "Peercoin", 
+"price_btc": "0.00635000", 
+"id": "ppc", 
+"website": "http://cur.lv/5rzp4"
+}, 
+{
+"volume_btc": "0", 
+"name": "PeopleCoin", 
+"price_btc": "0.00005133", 
+"id": "ppl", 
+"website": ""
+}, 
+{
+"volume_btc": "0.450092269420566", 
+"name": "PRC", 
+"price_btc": "0.00014377", 
+"id": "prc", 
+"website": ""
+}, 
+{
+"volume_btc": "1.56145509290588", 
+"name": "Particle", 
+"price_btc": "0.00000209", 
+"id": "prt", 
+"website": "http://www.bitparticle.com/"
+}, 
+{
+"volume_btc": "266.33820999741", 
+"name": "ProtoShares", 
+"price_btc": "0.02610000", 
+"id": "pts", 
+"website": "http://cur.lv/5rztd"
+}, 
+{
+"volume_btc": "0", 
+"name": "PWC", 
+"price_btc": "0.00000003", 
+"id": "pwc", 
+"website": ""
+}, 
+{
+"volume_btc": "1.18802842116123", 
+"name": "PhenixCoin", 
+"price_btc": "0.00001153", 
+"id": "pxc", 
+"website": ""
+}, 
+{
+"volume_btc": "1.2264995414298", 
+"name": "PixelCoin", 
+"price_btc": "0.00012500", 
+"id": "pxl", 
+"website": "http://www.pxlcoin.com/"
+}, 
+{
+"volume_btc": "1.21305699686491", 
+"name": "PayCoin", 
+"price_btc": "0.00005249", 
+"id": "pyc", 
+"website": "http://cur.lv/5rzsj"
+}, 
+{
+"volume_btc": "2.55660586820159", 
+"name": "Q2C", 
+"price_btc": "0.00000094", 
+"id": "q2c", 
+"website": ""
+}, 
+{
+"volume_btc": "5.32367186091317", 
+"name": "QQcoin", 
+"price_btc": "0.00001130", 
+"id": "qqc", 
+"website": "http://qqco.in/"
+}, 
+{
+"volume_btc": "92.4035658489874", 
+"name": "Quarkcoin", 
+"price_btc": "0.00009868", 
+"id": "qrk", 
+"website": "http://cur.lv/5rzq3"
+}, 
+{
+"volume_btc": "0", 
+"name": "Richcoin", 
+"price_btc": "0.00000007", 
+"id": "rch", 
+"website": ""
+}, 
+{
+"volume_btc": "45.3063885048032", 
+"name": "RDD", 
+"price_btc": "0.00000007", 
+"id": "rdd", 
+"website": ""
+}, 
+{
+"volume_btc": "0.0459241355552354", 
+"name": "RealCoin", 
+"price_btc": "0.00000022", 
+"id": "rec", 
+"website": ""
+}, 
+{
+"volume_btc": "7.71758540544858", 
+"name": "RedCoin", 
+"price_btc": "0.00001411", 
+"id": "red", 
+"website": "http://cur.lv/5rzrn"
+}, 
+{
+"volume_btc": "2.88322211825289", 
+"name": "REDD", 
+"price_btc": "0.00000007", 
+"id": "redd", 
+"website": ""
+}, 
+{
+"volume_btc": "11.9427089206874", 
+"name": "RIC", 
+"price_btc": "0.00060320", 
+"id": "ric", 
+"website": ""
+}, 
+{
+"volume_btc": "1.15277867889778", 
+"name": "RonPaulCoin", 
+"price_btc": "0.00800001", 
+"id": "rpc", 
+"website": "http://www.ronpaulcoin.com"
+}, 
+{
+"volume_btc": "0.283923787763342", 
+"name": "RPD", 
+"price_btc": "0.00000434", 
+"id": "rpd", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "Russian ruble", 
+"price_btc": "0.00000000", 
+"id": "rur", 
+"website": ""
+}, 
+{
+"volume_btc": "0.015803727112636", 
+"name": "RoyalCoin", 
+"price_btc": "0.00000000", 
+"id": "ryc", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "SAV", 
+"price_btc": "0.00000005", 
+"id": "sav", 
+"website": ""
+}, 
+{
+"volume_btc": "5.28814947985381", 
+"name": "StableCoin", 
+"price_btc": "0.00002181", 
+"id": "sbc", 
+"website": ""
+}, 
+{
+"volume_btc": "4.21175035728447", 
+"name": "SC", 
+"price_btc": "0.00025300", 
+"id": "sc", 
+"website": ""
+}, 
+{
+"volume_btc": "0.213992860168219", 
+"name": "SKC", 
+"price_btc": "0.00001301", 
+"id": "skc", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "SLL", 
+"price_btc": "0.00000667", 
+"id": "sll", 
+"website": ""
+}, 
+{
+"volume_btc": "3.78871816838727", 
+"name": "Smartcoin", 
+"price_btc": "0.00002510", 
+"id": "smc", 
+"website": "http://getsmartcoin.com/"
+}, 
+{
+"volume_btc": "0.373501321373624", 
+"name": "SOC", 
+"price_btc": "0.00000015", 
+"id": "soc", 
+"website": ""
+}, 
+{
+"volume_btc": "0.711789574561408", 
+"name": "Spots", 
+"price_btc": "0.00001568", 
+"id": "spt", 
+"website": ""
+}, 
+{
+"volume_btc": "11.8166708570236", 
+"name": "SecureCoin", 
+"price_btc": "0.00093431", 
+"id": "src", 
+"website": "http://cur.lv/5rzsx"
+}, 
+{
+"volume_btc": "0", 
+"name": "STC", 
+"price_btc": "0.00000980", 
+"id": "stc", 
+"website": ""
+}, 
+{
+"volume_btc": "1.13400828525482", 
+"name": "StarCoin", 
+"price_btc": "0.00000169", 
+"id": "str", 
+"website": "http://cur.lv/5rzow"
+}, 
+{
+"volume_btc": "11.285284505211", 
+"name": "Sexcoin", 
+"price_btc": "0.00001381", 
+"id": "sxc", 
+"website": "http://cur.lv/5rzph"
+}, 
+{
+"volume_btc": "9.86196924361678", 
+"name": "TagCoin", 
+"price_btc": "0.00117111", 
+"id": "tag", 
+"website": ""
+}, 
+{
+"volume_btc": "0.237952449657314", 
+"name": "Teacoin", 
+"price_btc": "0.00000600", 
+"id": "tea", 
+"website": "http://www.teacoin.net/"
+}, 
+{
+"volume_btc": "2.68605067534372", 
+"name": "TEK", 
+"price_btc": "0.00025400", 
+"id": "tek", 
+"website": ""
+}, 
+{
+"volume_btc": "0.433452110290887", 
+"name": "TeslaCoin", 
+"price_btc": "0.00000156", 
+"id": "tes", 
+"website": "http://www.teslacoins.com/"
+}, 
+{
+"volume_btc": "3.32598287938163", 
+"name": "Tigercoin", 
+"price_btc": "0.00000852", 
+"id": "tgc", 
+"website": ""
+}, 
+{
+"volume_btc": "241.059483510006", 
+"name": "Fedoracoin", 
+"price_btc": "0.00000001", 
+"id": "tips", 
+"website": "http://cur.lv/62fav"
+}, 
+{
+"volume_btc": "22.1249194996521", 
+"name": "Tickets", 
+"price_btc": "0.00000003", 
+"id": "tix", 
+"website": ""
+}, 
+{
+"volume_btc": "14.4662968860717", 
+"name": "Terracoin", 
+"price_btc": "0.00039000", 
+"id": "trc", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "TTC", 
+"price_btc": "0.00000020", 
+"id": "ttc", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "UFC", 
+"price_btc": "0.00000036", 
+"id": "ufc", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "UNI", 
+"price_btc": "0.00000150", 
+"id": "uni", 
+"website": ""
+}, 
+{
+"volume_btc": "28.2280045169697", 
+"name": "UNO", 
+"price_btc": "0.01108493", 
+"id": "uno", 
+"website": ""
+}, 
+{
+"volume_btc": "0", 
+"name": "US Dollar", 
+"price_btc": "0.00000000", 
+"id": "usd", 
+"website": ""
+}, 
+{
+"volume_btc": "4.25574000136112", 
+"name": "Unitary Status Dollar eCoin", 
+"price_btc": "0.00000047", 
+"id": "usde", 
+"website": ""
+}, 
+{
+"volume_btc": "14.377461562166", 
+"name": "UTC", 
+"price_btc": "0.00028000", 
+"id": "utc", 
+"website": ""
+}, 
+{
+"volume_btc": "1.32760779000819", 
+"name": "Velocitycoin", 
+"price_btc": "0.00000655", 
+"id": "vel", 
+"website": "http://velocitycoin.com/"
+}, 
+{
+"volume_btc": "0", 
+"name": "VEN", 
+"price_btc": "0.00013793", 
+"id": "ven", 
+"website": ""
+}, 
+{
+"volume_btc": "127.530380585305", 
+"name": "VertCoin", 
+"price_btc": "0.00294045", 
+"id": "vtc", 
+"website": "http://vertcoin.org"
+}, 
+{
+"volume_btc": "46.389135032355", 
+"name": "WorldCoin", 
+"price_btc": "0.00020575", 
+"id": "wdc", 
+"website": ""
+}, 
+{
+"volume_btc": "0.380767818320237", 
+"name": "WIKI", 
+"price_btc": "0.00000442", 
+"id": "wiki", 
+"website": ""
+}, 
+{
+"volume_btc": "16.0078485365702", 
+"name": "WOLF", 
+"price_btc": "0.00104000", 
+"id": "wolf", 
+"website": ""
+}, 
+{
+"volume_btc": "58.3840742791072", 
+"name": "XCP", 
+"price_btc": "0.00970000", 
+"id": "xcp", 
+"website": ""
+}, 
+{
+"volume_btc": "0.404871658545002", 
+"name": "Xivra", 
+"price_btc": "0.00000018", 
+"id": "xiv", 
+"website": "https://www.xivra.com"
+}, 
+{
+"volume_btc": "2.30097667337395", 
+"name": "JouleCoin", 
+"price_btc": "0.00002900", 
+"id": "xjo", 
+"website": "http://cur.lv/5rzs1"
+}, 
+{
+"volume_btc": "0.120495935155396", 
+"name": "XenCoin", 
+"price_btc": "0.00000043", 
+"id": "xnc", 
+"website": ""
+}, 
+{
+"volume_btc": "114.295499318885", 
+"name": "PrimeCoin", 
+"price_btc": "0.00296000", 
+"id": "xpm", 
+"website": "http://cur.lv/5rzt0"
+}, 
+{
+"volume_btc": "10.3086049885023", 
+"name": "XRP", 
+"price_btc": "0.00002451", 
+"id": "xrp", 
+"website": ""
+}, 
+{
+"volume_btc": "7.73801569459678", 
+"name": "Yacoin", 
+"price_btc": "0.00003179", 
+"id": "yac", 
+"website": "http://www.yacoin.org/"
+}, 
+{
+"volume_btc": "0.692622878028487", 
+"name": "YBCoin", 
+"price_btc": "0.00503478", 
+"id": "ybc", 
+"website": "http://cur.lv/5rzor"
+}, 
+{
+"volume_btc": "31.9245946548877", 
+"name": "ZcCoin", 
+"price_btc": "0.00021000", 
+"id": "zcc", 
+"website": "http://www.zhaocaibi.com/?lang=en"
+}, 
+{
+"volume_btc": "0", 
+"name": "ZED", 
+"price_btc": "0.00000020", 
+"id": "zed", 
+"website": ""
+}, 
+{
+"volume_btc": "17.1530872625031", 
+"name": "ZetaCoin", 
+"price_btc": "0.00002028", 
+"id": "zet", 
+"website": "http://cur.lv/5rzoe"
+}
+]

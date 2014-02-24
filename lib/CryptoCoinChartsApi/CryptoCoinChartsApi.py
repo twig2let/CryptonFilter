@@ -24,10 +24,12 @@ class API(object):
     JSON_DATA = ""
         
     def listcoins(self):
+
         '''
         Use this function to list all coins with their data which are available on cryptocoincharts.
         Usage: http://www.cryptocoincharts.info/v2/api/listCoins
         '''
+
         url = self.API_PATH + 'listCoins'
 
         json_data = json.loads(self._getdata(url))
@@ -46,12 +48,14 @@ class API(object):
         return coins
     
     def tradingpair(self, pair):
+
         '''
         Use this function to query price and volume data for ONE trading pair.
         A list with all coin currencies can be found by using the listcoins method.
         A example pair: currency1_currency2 = "doge_btc" 
         Usage: http://www.cryptocoincharts.info/v2/api/tradingPair/[currency1_currency2]
         '''
+
         url = self.API_PATH + 'tradingPair/' + pair
         
         json_data = json.loads(self._getdata(url))
@@ -69,6 +73,7 @@ class API(object):
         return tradingpair
     
     def tradingpairs(self, pairs):
+
         '''
         Use this function to query price and volume data for MANY trading pairs.
         Usage: http://www.cryptocoincharts.info/v2/api/tradingPairs/[currency1_currency2,currency2_currency3,...]
@@ -76,6 +81,7 @@ class API(object):
                                currency2_currency3 = "btc_eur"
                http://www.cryptocoincharts.info/v2/api/tradingPairs/"doge_btc,btc_eur"            
         '''
+
         url = self.API_PATH + 'tradingPairs/'
         data = { 'pairs':pairs }
         
@@ -118,8 +124,8 @@ class API(object):
             print('Reason: ', e.code)
         else:
             # Everything is fine.
-                                #  decode('utf-8') fixes bug in python 3.3
             return response.read().decode('utf-8')
+                                #  decode('utf-8') fixes bug in python 3.3
 
         # Custom Methods
 
